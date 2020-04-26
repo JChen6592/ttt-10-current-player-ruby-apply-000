@@ -15,5 +15,4 @@ def current_player(board)
   elsif player.odd?
     "O"
   end
-  
 end 
